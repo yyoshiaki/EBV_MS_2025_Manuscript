@@ -1,0 +1,19 @@
+# Work products and all real data stay outside this source repository.
+work/
+outputs/
+results/
+data/
+*.h5ad
+*.h5mu
+*.mtx
+*.rds
+*.RData
+*.fastq*
+*.bam
+*.cram
+*.vcf*
+*.pgen
+*.bed
+.env*
+__pycache__/
+.DS_Store
