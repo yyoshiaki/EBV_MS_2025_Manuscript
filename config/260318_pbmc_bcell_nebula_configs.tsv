@@ -1,0 +1,13 @@
+name	clusters	n_top	min_cells_per_gene	min_cells_per_donor
+Bnaive	Bnaive	40	10	20
+Bnaive_SOX4	Bnaive SOX4	40	10	20
+Bnaive_MX1	Bnaive MX1	40	10	20
+Bnaive_preASC	Bnaive preASC	40	10	20
+Busm	Busm	40	10	20
+Bmem_int	Bmem int	40	10	20
+Bsm_FCER2	Bsm FCER2	40	10	20
+Bsm	Bsm	40	10	20
+ABC	ABC	40	10	20
+ASC	ASC	40	10	20
+Bcell_ABCs_Bsms	ABC|Bsm	40	10	20
+Bcell_memoryB	Bmem int|ABC|Busm|Bsm|Bsm FCER2	60	10	20

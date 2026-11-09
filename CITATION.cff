@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the archived version of this code."
+type: software
+title: "EBV-MS analysis code"
+authors:
+  - family-names: Yasumizu
+    given-names: Yoshiaki
+version: 1.0.0
+date-released: 2026-11-08
+license: MIT
+doi: 10.5281/zenodo.24070191
+repository-code: https://github.com/yyoshiaki/EBV_MS_2025_Manuscript
